@@ -20,7 +20,6 @@
   },
   "homepage": "https://github.com/ll526e/relay#readme",
   "dependencies": {
-    "koa": "^2.15.3",
-    "node-fetch": "^2.7.0"
+    "koa": "^2.15.3"
   }
 }
