@@ -1,0 +1,26 @@
+{
+  "name": "relay",
+  "version": "0.0.1",
+  "description": "A forwarding proxy service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ll526e/relay.git"
+  },
+  "keywords": [
+    "proxy"
+  ],
+  "author": "ll526e",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ll526e/relay/issues"
+  },
+  "homepage": "https://github.com/ll526e/relay#readme",
+  "dependencies": {
+    "koa": "^2.15.3",
+    "node-fetch": "^2.7.0"
+  }
+}
